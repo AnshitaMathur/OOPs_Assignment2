@@ -1,0 +1,1 @@
+In this project, I have defined a class named "Person" and mix it with Ordered Trait to do the comparison.Then, checked if the name of both objects is equal or not. If it is equal, then comparing according to age and if name is not equal then comparing according to name length.
